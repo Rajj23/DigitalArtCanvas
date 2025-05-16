@@ -2,3 +2,5 @@ add and remove users
 change the roles
 
 new admin added
+
+search of database
