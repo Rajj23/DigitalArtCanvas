@@ -6,3 +6,5 @@ saved the data
 
 create an avator for user
 >>>>>>> feature1
+
+location sharing started
