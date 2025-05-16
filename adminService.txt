@@ -5,6 +5,4 @@ new admin added
 
 search of database
 
-image send added
-
-video bux fix
+new database data genreated
