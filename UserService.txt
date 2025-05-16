@@ -8,3 +8,5 @@ create an avator for user
 >>>>>>> feature1
 
 location sharing started
+
+alert send of unusual activity
