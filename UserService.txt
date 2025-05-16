@@ -1,11 +1,9 @@
 Get the user data...
 process the data ..
-<<<<<<< HEAD
-saved the data
-=======
+
 
 create an avator for user
->>>>>>> feature1
+
 
 location sharing started
 
