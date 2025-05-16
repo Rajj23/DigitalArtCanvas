@@ -5,6 +5,6 @@ new admin added
 
 search of database
 
-image send added
+new database data genreated
 
-video bux fix
+Graph of user joining
