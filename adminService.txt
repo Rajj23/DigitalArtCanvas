@@ -6,3 +6,5 @@ new admin added
 search of database
 
 new database data genreated
+
+Graph of user joining
